@@ -11,6 +11,7 @@
 extern Dialog * Dialog;
 PACMAN::PACMAN()
 {
+    //Inicializando pacman
     posx = 40;
     posy = 700;
     radio = 20;
